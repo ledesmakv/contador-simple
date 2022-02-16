@@ -24,7 +24,6 @@ export const Contador: FunctionComponent = () => {
     setNumber(0);
   };
 
-  // esto es super sencillo? si, pero fui capaz de hacerlo sola AAAAA GOKU 🛐🛐🛐
   return (
     <Wrapper>
       <Title>Contador</Title>
